@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">IntroToAndroidDevelopment</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="our_second_string">Our Second String Here!</string>
 </resources>
