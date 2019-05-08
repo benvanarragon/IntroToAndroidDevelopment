@@ -2,6 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.introtoandroiddevelopment">
 
+    <!-- sets out a few global properties of the app, waiting to evolve to JSON, use XML format, launcher icon, app name etc.. -->
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
